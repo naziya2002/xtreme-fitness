@@ -37,3 +37,12 @@
   .card{
     border: 2px solid white !important;
   }
+
+
+  @media(max-width:991px){
+
+    .content{
+    
+      padding-left: 0px;
+    }
+  }
